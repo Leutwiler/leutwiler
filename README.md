@@ -1,7 +1,9 @@
 ### Hello there! I am Andrey Leutwiler Gomes 😀
 
 - 🔭 Looking for a job
-- 👨‍💻 Learning Solidity 
+- 👨‍💻 Learning Solidity
+- 👨‍🎓 Graduated in Business Administration at Fundação Getulio Vargas
+- 💼 Former Business Intelligence intern at Pagar.me
 
 <div align="center">
   <a href="https://github.com/Leutwiler">

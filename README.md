@@ -15,7 +15,7 @@
   <a href="https://github.com/Leutwiler">
   <img align="center" alt="Solidity" height="40" width="150" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
   <img align="center" alt="JavaScript" height="40" width="150" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="right" alt="Andrey-Anime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/516343806162108426/959166787969233026/Andrey_-_Anime_GIF_3_poses.gif?width=1000&height=1000">
+  <img align="right" alt="Andrey-Anime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/377861955370614786/979441416084267018/Andrey_-_Anime.png?width=1000&height=1000">
 </div>  
 
 ##

@@ -3,7 +3,6 @@
 - 🔭 Looking for a job
 - 👨‍💻 Solidity Dev
 - 👨‍🎓 Graduated in Business Administration at Fundação Getulio Vargas
-- 💼 Former Business Intelligence intern at Pagar.me
 - [📖 Foundry Book](https://github.com/foundry-rs/book) contributor
 
 <div align="center">

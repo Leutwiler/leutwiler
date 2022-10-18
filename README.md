@@ -1,6 +1,5 @@
 ### Hello there! I am Andrey Leutwiler Gomes 😀
 
-- 🔭 Looking for a job
 - 👨‍💻 Solidity Dev
 - 👨‍🎓 Graduated in Business Administration at Fundação Getulio Vargas
 - [📖 Foundry Book](https://github.com/foundry-rs/book) contributor
